@@ -1,0 +1,12 @@
+{
+    "favorites.resources": [
+        {
+            "filePath": "src",
+            "group": "Default"
+        },
+        {
+            "filePath": "App.tsx",
+            "group": "Default"
+        }
+    ]
+}

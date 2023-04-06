@@ -15,11 +15,11 @@ const MyText: React.FC<MyTextProps> = ({
 
   const styles = StyleSheet.create({
     text: {
-      fontFamily: theme.typography.fontFamily,
       fontSize: variant === 'title' ? 24 : theme.typography.fontSize,
       //@ts-ignore
       fontWeight: variant === 'title' ? 'bold' : theme.typography.fontWeight,
       color: theme.colors.primary,
+      //@ts-ignore
     },
   });
 

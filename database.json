@@ -1,0 +1,88 @@
+{
+    "Aries": {
+      "yesterday": "Yesterday may have been a bit chaotic for you, Aries. You may have felt like you were running in circles, but remember that sometimes it's okay to take a step back and reassess. Take some time to recharge your batteries and get organized for the week ahead.",
+      "today": "Today, you may feel a surge of energy and motivation, Aries. Use this to your advantage by tackling a project you've been putting off or starting something new. Just be sure to pace yourself and don't burn out too quickly.",
+      "week": "This week, you may be feeling more introspective than usual, Aries. Take some time to reflect on your goals and values, and make sure you're on the right path. Trust your instincts and don't be afraid to make changes if necessary.",
+      "month": "This month, you may find yourself struggling to balance your personal and professional life, Aries. Remember that it's important to prioritize self-care and take time for yourself, even if it means saying no to certain opportunities. Don't spread yourself too thin.",
+      "year": "In the coming year, you may experience some major changes and transformations, Aries. Embrace these changes and trust that they are leading you towards a better future. Keep an open mind and stay adaptable."
+    },
+    "Taurus": {
+      "yesterday": "Yesterday may have been a bit emotionally intense for you, Taurus. It's okay to feel your feelings, but try not to get too caught up in them. Take some time to decompress and recharge.",
+      "today": "Today, you may find yourself feeling more grounded and centered, Taurus. Use this stability to make progress towards your goals, whether personal or professional. Trust that you have the strength and perseverance to overcome any obstacles that come your way.",
+      "week": "This week, you may be feeling more sociable than usual, Taurus. Take advantage of opportunities to connect with others and build relationships. You never know who you might meet or what doors might open as a result.",
+      "month": "This month, you may find yourself facing some challenges in your relationships, Taurus. Remember that communication is key, and try to approach any conflicts with patience and understanding. Don't be afraid to seek support from loved ones if you need it.",
+      "year": "In the coming year, you may experience some major shifts in your career or professional life, Taurus. Trust that these changes are leading you towards greater success and fulfillment. Stay focused on your goals and be willing to take risks."
+    },
+    "Gemini": {
+        "yesterday": "Yesterday may have been a bit overwhelming for you, Gemini. You may have felt like you were being pulled in too many directions at once. Remember to prioritize self-care and take time to recharge when you need it.",
+        "today": "Today, you may find yourself feeling more creative and inspired, Gemini. Use this energy to pursue your passions and express yourself in new ways. Don't be afraid to take risks and try something new.",
+        "week": "This week, you may be feeling more introspective than usual, Gemini. Use this time to reflect on your values and priorities, and make sure you're on the right path. Trust your intuition and don't be afraid to make changes if necessary.",
+        "month": "This month, you may find yourself struggling to balance your personal and professional life, Gemini. Remember that it's important to prioritize self-care and take time for yourself, even if it means saying no to certain opportunities. Don't spread yourself too thin.",
+        "year": "In the coming year, you may experience some major changes and new opportunities, Gemini. Embrace these changes and trust that they are leading you towards greater success and fulfillment. Stay open-minded and adaptable, and don't be afraid to take risks."
+      },
+      "Cancer": {
+        "yesterday": "Yesterday may have been a bit emotionally intense for you, Cancer. You may have found yourself feeling more sensitive and reactive than usual. Take time to process your feelings and communicate your needs to those around you.",
+        "today": "Today, you may find yourself feeling more grounded and centered, Cancer. Use this energy to focus on your goals and make progress towards your dreams. Trust that you have the skills and resources you need to succeed.",
+        "week": "This week, you may find yourself feeling more social than usual, Cancer. Use this time to connect with friends and loved ones, and seek out opportunities to expand your network. Don't be afraid to take the lead in group settings.",
+        "month": "This month, you may find yourself facing some challenges in your personal relationships, Cancer. Use this time to communicate openly and honestly with your partner or loved ones, and work together to find solutions. Remember to prioritize empathy and understanding.",
+        "year": "In the coming year, you may experience some major changes in your career or professional life, Cancer. Embrace these changes as opportunities for growth and learning, and trust that you are on the right path. Remember to stay focused and disciplined, and don't be afraid to ask for help when you need it."
+      },
+      "Leo": {
+        "yesterday": "Yesterday may have been a bit frustrating for you, Leo. You may have found yourself butting heads with authority figures or feeling like your voice wasn't being heard. Remember to stay confident in your abilities and trust your instincts.",
+        "today": "Today, you may find yourself feeling more energized and motivated, Leo. Use this energy to pursue your passions and take risks. Remember to stay focused on your goals and don't let setbacks discourage you.",
+        "week": "This week, you may find yourself feeling more creative and inspired, Leo. Use this energy to express yourself in new ways and pursue your artistic or intellectual interests. Don't be afraid to take bold steps and try something new.",
+        "month": "This month, you may find yourself facing some financial challenges, Leo. Use this time to reevaluate your budget and prioritize your expenses. Remember to stay disciplined and avoid unnecessary spending.",
+        "year": "In the coming year, you may experience some major changes in your personal life, Leo. Embrace these changes as opportunities for growth and learning, and trust that they are leading you towards greater happiness and fulfillment. Remember to stay true to yourself and your values, and don't be afraid to take risks in pursuit of your dreams."
+      },
+      "Virgo": {
+        "yesterday": "Yesterday may have been a bit overwhelming for you, Virgo. You may have found yourself juggling multiple tasks and struggling to keep up with everything. Remember to prioritize self-care and take breaks when you need them.",
+        "today": "Today, you may find yourself feeling more analytical and detail-oriented, Virgo. Use this energy to tackle complex problems and make progress on important projects. Remember to stay organized and focused.",
+        "week": "This week, you may find yourself feeling more introspective than usual, Virgo. Use this time to reflect on your goals and priorities, and make sure you're on the right path. Trust your instincts and don't be afraid to make changes if necessary.",
+        "month": "This month, you may find yourself facing some challenges in your personal relationships, Virgo. Use this time to communicate openly and honestly with your loved ones, and work together to find solutions. Remember to prioritize empathy and understanding.",
+        "year": "In the coming year, you may experience some major changes in your career or professional life, Virgo. Embrace these changes as opportunities for growth and learning, and trust that you have the skills and resources you need to succeed. Remember to stay disciplined and focused on your goals."
+      },
+      "Libra": {
+        "yesterday": "Yesterday may have been a bit emotionally intense for you, Libra. You may have found yourself feeling more sensitive and reactive than usual. Take time to process your feelings and communicate your needs to those around you.",
+        "today": "Today, you may find yourself feeling more balanced and centered, Libra. Use this energy to cultivate harmony and peace in your relationships. Remember to prioritize clear communication and empathy.",
+        "week": "This week, you may find yourself feeling more social than usual, Libra. Use this time to connect with friends and loved ones, and seek out opportunities to expand your network. Don't be afraid to take the lead in group settings.",
+        "month": "This month, you may find yourself facing some challenges in your career or professional life, Libra. Use this time to stay focused on your goals and prioritize your tasks. Remember to communicate clearly and assertively with your colleagues and superiors.",
+        "year": "In the coming year, you may experience some major changes in your personal life, Libra. Embrace these changes as opportunities for growth and learning, and trust that they are leading you towards greater happiness and fulfillment. Remember to stay true to yourself and your values, and don't be afraid to take risks in pursuit of your dreams."
+      },
+      "Sagittarius": {
+        "yesterday": "Yesterday may have been a day of reflection for you, Sagittarius. You may have found yourself thinking about your goals and whether you're on the right path. Use this time to recommit to your passions and stay true to yourself.",
+        "today": "Today, you may find yourself feeling more adventurous and spontaneous, Sagittarius. Use this energy to seek out new experiences and explore your surroundings. Remember to stay open-minded and embrace uncertainty.",
+        "week": "This week, you may find yourself feeling more energetic and motivated, Sagittarius. Use this time to tackle challenging projects and push yourself out of your comfort zone. Remember to stay focused and disciplined.",
+        "month": "This month, you may find yourself facing some financial challenges, Sagittarius. Use this time to evaluate your spending habits and make a budget that aligns with your values and priorities. Remember to stay patient and take small steps towards your goals.",
+        "year": "In the coming year, you may experience some major changes in your personal relationships, Sagittarius. Embrace these changes as opportunities for growth and learning, and prioritize clear communication and mutual understanding. Remember to stay true to yourself and your values, even as you navigate these changes."
+      },
+      "Scorpio": {
+        "yesterday": "Yesterday may have been a bit chaotic for you, Scorpio. You may have found yourself dealing with unexpected challenges or disruptions. Use this time to stay calm and focused, and trust that you have the resources you need to overcome these obstacles.",
+        "today": "Today, you may find yourself feeling more intuitive and perceptive, Scorpio. Use this energy to tune into your instincts and make decisions that align with your deepest desires. Remember to stay grounded and seek out supportive relationships.",
+        "week": "This week, you may find yourself feeling more reflective and introspective, Scorpio. Use this time to connect with your inner wisdom and process any unresolved emotions. Remember to practice self-care and prioritize your well-being.",
+        "month": "This month, you may find yourself facing some challenges in your personal relationships, Scorpio. Use this time to communicate openly and honestly with your loved ones, and work together to find solutions. Remember to prioritize empathy and understanding.",
+        "year": "In the coming year, you may experience some major changes in your career or professional life, Scorpio. Embrace these changes as opportunities for growth and learning, and trust that you have the skills and resources you need to succeed. Remember to stay disciplined and focused on your goals, even as you navigate new challenges."
+      },
+      "Capricorn": {
+        "yesterday": "Yesterday may have been a day of challenges and obstacles for you, Capricorn. You may have found yourself feeling frustrated or overwhelmed. Use this time to regroup and strategize your next steps, focusing on long-term goals rather than short-term setbacks.",
+        "today": "Today, you may find yourself feeling more focused and disciplined, Capricorn. Use this energy to tackle difficult tasks and prioritize your responsibilities. Remember to take breaks and prioritize self-care.",
+        "week": "This week, you may find yourself feeling more productive and motivated, Capricorn. Use this time to tackle projects that have been on your to-do list for a while. Remember to stay organized and focused.",
+        "month": "This month, you may find yourself facing some challenges in your personal relationships, Capricorn. Use this time to communicate openly and honestly with your loved ones, and work together to find solutions. Remember to prioritize empathy and understanding.",
+        "year": "In the coming year, you may experience some major changes in your career or professional life, Capricorn. Embrace these changes as opportunities for growth and learning, and trust that you have the skills and resources you need to succeed. Remember to stay disciplined and focused on your goals, even as you navigate new challenges."
+      },
+      "Aquarius": {
+        "yesterday": "Yesterday may have been a day of introspection for you, Aquarius. You may have found yourself reflecting on your personal values and priorities. Use this time to align your actions with your beliefs, and make sure you're living in a way that feels authentic to you.",
+        "today": "Today, you may find yourself feeling more independent and innovative, Aquarius. Use this energy to explore new ideas and challenge the status quo. Remember to stay grounded and seek out feedback from trusted sources.",
+        "week": "This week, you may find yourself feeling more social and outgoing, Aquarius. Use this time to connect with friends and loved ones, and seek out new experiences. Remember to prioritize self-care and balance your social life with alone time.",
+        "month": "This month, you may find yourself facing some financial challenges, Aquarius. Use this time to evaluate your spending habits and make a budget that aligns with your values and priorities. Remember to stay patient and take small steps towards your goals.",
+        "year": "In the coming year, you may experience some major changes in your personal relationships, Aquarius. Embrace these changes as opportunities for growth and learning, and prioritize clear communication and mutual understanding. Remember to stay true to yourself and your values, even as you navigate these changes."
+      },
+      "Pisces": {
+        "yesterday": "Yesterday may have been a day of heightened emotions and sensitivity for you, Pisces. You may have found yourself feeling overwhelmed by the feelings and energy of those around you. Use this time to prioritize self-care and boundaries.",
+        "today": "Today, you may find yourself feeling more intuitive and creative, Pisces. Use this energy to explore your inner world and express yourself through art or other creative outlets. Remember to trust your instincts and listen to your inner voice.",
+        "week": "This week, you may find yourself feeling more introspective and reflective, Pisces. Use this time to focus on your inner world and connect with your spiritual side. Remember to take time for yourself and prioritize self-care.",
+        "month": "This month, you may find yourself facing some challenges in your professional life, Pisces. Use this time to evaluate your goals and priorities, and make sure you're aligning your actions with your values. Remember to stay true to yourself and trust your intuition.",
+        "year": "In the coming year, you may experience some major changes in your personal relationships, Pisces. Embrace these changes as opportunities for growth and learning, and prioritize open communication and empathy. Remember to set healthy boundaries and prioritize your own needs."
+      }
+}
+
+      

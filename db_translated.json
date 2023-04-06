@@ -1,0 +1,326 @@
+{
+    "Virgo": {
+      "yesterday": {
+        "en": "Yesterday may have been a busy and productive day for you, Virgo. You may have found yourself taking care of practical matters and making progress towards your goals. Remember to take breaks and prioritize self-care.",
+        "fr": "Hier a peut-être été une journée chargée et productive pour vous, Vierge. Vous avez peut-être passé du temps à régler des questions pratiques et à avancer vers vos objectifs. N'oubliez pas de prendre des pauses et de vous concentrer sur votre bien-être.",
+        "es": "Ayer puede haber sido un día ocupado y productivo para ti, Virgo. Es posible que hayas dedicado tiempo a resolver asuntos prácticos y avanzar hacia tus metas. Recuerda tomarte descansos y priorizar el cuidado personal."
+      },
+      "today": {
+        "en": "Today, you may find yourself feeling more analytical and detail-oriented, Virgo. Use this energy to focus on tasks that require precision and attention to detail. Remember to take breaks and prioritize self-care.",
+        "fr": "Aujourd'hui, vous pourriez vous sentir plus analytique et axé sur les détails, Vierge. Utilisez cette énergie pour vous concentrer sur les tâches qui nécessitent de la précision et de l'attention aux détails. N'oubliez pas de prendre des pauses et de vous concentrer sur votre bien-être.",
+        "es": "Hoy, es posible que te sientas más analítico y orientado a los detalles, Virgo. Usa esta energía para enfocarte en tareas que requieren precisión y atención al detalle. Recuerda tomar descansos y priorizar el cuidado personal."
+      },
+      "week": {
+        "en": "This week, you may feel a strong desire to organize and declutter your space. Use this energy to create a peaceful and productive environment. Additionally, pay attention to your health and well-being, and consider implementing a new exercise routine or healthy habit.",
+        "fr": "Cette semaine, vous pourriez ressentir un fort désir d'organiser et de désencombrer votre espace. Utilisez cette énergie pour créer un environnement paisible et productif. De plus, prêtez attention à votre santé et à votre bien-être, et envisagez de mettre en place une nouvelle routine d'exercice ou une habitude saine.",
+        "es": "Esta semana, es posible que sientas un fuerte deseo de organizar y despejar tu espacio. Usa esta energía para crear un ambiente tranquilo y productivo. Además, presta atención a tu salud y bienestar, y considera implementar una nueva rutina de ejercicio o hábito saludable."
+      },
+      "month": {
+        "en": "This month, you may experience some financial fluctuations, so it's important to be mindful of your spending and budgeting. On the personal front, you may find yourself reconnecting with old friends or acquaintances, which could lead to exciting opportunities or unexpected developments.",
+        "fr": "Ce mois-ci, vous pourriez rencontrer des fluctuations financières, il est donc important de faire attention à vos dépenses et à votre budget. Sur le plan personnel, vous pourriez vous reconnecter avec de vieux amis ou connaissances, ce qui pourrait conduire à des opportunités passionnantes ou à des développements inattendus.",
+        "es": "Este mes, es posible que experimentes algunas fluctuaciones financieras, por lo que es importante tener cuidado con tus gastos y presupuesto. En lo personal, es posible que te encuentres reconectando con viejos amigos o conocidos, lo que podría llevar a oportunidades emocionantes o desarrollos inesperados."
+      },
+      "year": {
+        "en": "This year, you may feel a strong urge to explore new intellectual pursuits or educational opportunities. Don't be afraid to challenge yourself and step outside of your comfort zone. Additionally, focus on cultivating strong and healthy relationships, as they may play a significant role in your personal and professional growth.",
+        "fr": "Cette année, vous pourriez ressentir une forte envie d'explorer de nouvelles poursuites intellectuelles ou de nouvelles opportunités éducatives. N'ayez pas peur de vous mettre au défi et de sortir de votre zone de confort. De plus, concentrez-vous sur la création de relations solides et saines, car elles peuvent jouer un rôle important dans votre croissance personnelle et professionnelle.",
+        "es": "Este año, es posible que sientas un fuerte impulso de explorar nuevas perspectivas intelectuales u oportunidades educativas. No tengas miedo de desafiarte a ti mismo y salir de tu zona de confort. Además, concéntrate en cultivar relaciones sólidas y saludables, ya que pueden desempeñar un papel importante en tu crecimiento personal y profesional."
+      }
+    },
+    "Aries": {
+        "yesterday": {
+        "en": "Yesterday, you may have found yourself feeling a bit restless and irritable. It's important to take some time to slow down and recharge your batteries. Try to focus on self-care and relaxation.",
+        "fr": "Hier, vous vous êtes peut-être senti un peu agité et irritable. Il est important de prendre le temps de ralentir et de recharger vos batteries. Essayez de vous concentrer sur les soins personnels et la relaxation.",
+        "es": "Ayer, es posible que se haya sentido un poco inquieto e irritable. Es importante tomarse un tiempo para desacelerar y recargar las baterías. Trate de enfocarse en el autocuidado y la relajación."
+        },
+        "today": {
+        "en": "Today, you may feel more energetic and enthusiastic than usual. This is a great time to tackle any projects or tasks that require a lot of focus and attention to detail. Just be sure to take breaks and avoid burnout.",
+        "fr": "Aujourd'hui, vous pouvez vous sentir plus énergique et enthousiaste que d'habitude. C'est un moment idéal pour s'attaquer à des projets ou des tâches qui nécessitent beaucoup de concentration et d'attention aux détails. Assurez-vous simplement de prendre des pauses et d'éviter l'épuisement professionnel.",
+        "es": "Hoy, es posible que se sienta más enérgico y entusiasta de lo habitual. Este es un buen momento para abordar cualquier proyecto o tarea que requiera mucha atención y detalle. Solo asegúrese de tomar descansos y evitar el agotamiento."
+        },
+        "week": {
+        "en": "This week, you may encounter some unexpected challenges or obstacles. Don't get discouraged! Use your natural leadership skills to stay focused and come up with creative solutions to any problems that arise.",
+        "fr": "Cette semaine, vous pourriez rencontrer des défis ou des obstacles inattendus. Ne vous découragez pas ! Utilisez vos compétences naturelles de leadership pour rester concentré et trouver des solutions créatives à tous les problèmes qui se posent.",
+        "es": "Esta semana, es posible que encuentre algunos desafíos u obstáculos inesperados. ¡No se desanime! Use sus habilidades naturales de liderazgo para mantenerse enfocado y encontrar soluciones creativas a cualquier problema que surja."
+        },
+        "month": {
+        "en": "This month, you may find yourself craving more excitement and adventure. Consider trying new things and exploring new places. Just be sure to balance your desire for adventure with your responsibilities and obligations.",
+        "fr": "Ce mois-ci, vous pouvez avoir envie de plus d'excitation et d'aventure. Envisagez d'essayer de nouvelles choses et d'explorer de nouveaux endroits. Assurez-vous simplement d'équilibrer votre désir d'aventure avec vos responsabilités et obligations.",
+        "es": "Este mes, es posible que se sienta con ganas de más emoción y aventura. Considere probar cosas nuevas y explorar nuevos lugares. Solo asegúrese de equilibrar su deseo de aventura con sus responsabilidades y obligaciones."
+        },
+        "year": {
+        "en": "The year ahead is full of potential for you, Aries. You have a lot of creative energy and the drive to make your dreams a reality. This is a great time to focus on your personal growth and development, as well as your career goals. However, be mindful of your tendency to be impulsive and impatient. Take time to plan and strategize, rather than rushing headlong into new projects or relationships.",
+        "fr": "L'année qui vient est pleine de potentiel pour vous, Bélier. Vous avez beaucoup d'énergie créative et la motivation pour réaliser vos rêves. C'est un moment idéal pour vous concentrer sur votre croissance et votre développement personnel, ainsi que sur vos objectifs professionnels. Cependant, soyez conscient de votre tendance à être impulsif et impatient. Prenez le temps de planifier et de stratégie, plutôt que de vous précipiter tête baissée dans de nouveaux projets ou relations.",
+        "es": "El año que viene está lleno de potencial para ti, Aries. Tienes mucha energía creativa y la motivación para hacer realidad tus sueños. Este es un gran momento para centrarte en tu crecimiento personal y desarrollo, así como en tus objetivos profesionales. Sin embargo, ten en cuenta tu tendencia a ser impulsivo e impaciente. Dedica tiempo a planificar y estrategizar, en lugar de lanzarte de cabeza a nuevos proyectos o relaciones."
+        }
+    },
+    "Taurus": {
+        "yesterday": {
+        "en": "Yesterday may have felt like a bit of a struggle for you, Taurus, but don't worry - today will be much smoother. Use this new sense of ease and comfort to focus on your goals and make progress towards achieving them.",
+        "fr": "Hier, vous avez peut-être eu l'impression de vous battre un peu, Taureau, mais ne vous inquiétez pas - aujourd'hui sera beaucoup plus facile. Utilisez cette nouvelle sensation de confort pour vous concentrer sur vos objectifs et progresser vers leur réalisation.",
+        "es": "Ayer puede haber sido un poco difícil para ti, Tauro, pero no te preocupes: hoy será mucho más fácil. Usa esta nueva sensación de comodidad para enfocarte en tus metas y avanzar hacia su logro."
+        },
+        "today": {
+        "en": "You may find yourself feeling a bit more emotional than usual today, Taurus. This is a good time to tap into your intuition and explore your feelings. Trust yourself and don't be afraid to express what's on your mind.",
+        "fr": "Vous pourriez vous sentir un peu plus émotionnel que d'habitude aujourd'hui, Taureau. C'est un bon moment pour vous connecter à votre intuition et explorer vos sentiments. Faites-vous confiance et n'ayez pas peur d'exprimer ce qui vous préoccupe.",
+        "es": "Hoy es posible que te sientas un poco más emocional de lo habitual, Tauro. Este es un buen momento para conectarte con tu intuición y explorar tus sentimientos. Confía en ti mismo y no tengas miedo de expresar lo que piensas."
+        },
+        "week": {
+        "en": "This week may bring some unexpected changes for you, Taurus. While it may be tempting to resist these changes, try to approach them with an open mind and a willingness to adapt. You may find that these changes ultimately lead to positive outcomes.",
+        "fr": "Cette semaine pourrait apporter quelques changements inattendus pour vous, Taureau. Bien qu'il puisse être tentant de résister à ces changements, essayez de les aborder avec un esprit ouvert et une volonté de vous adapter. Vous pourriez constater que ces changements conduisent finalement à des résultats positifs.",
+        "es": "Esta semana puede traer algunos cambios inesperados para ti, Tauro. Si bien puede ser tentador resistir estos cambios, trata de abordarlos con una mente abierta y una disposición a adaptarte. Es posible que descubras que estos cambios finalmente conducen a resultados positivos."
+        },
+        "month": {
+        "en": "This month, you may find yourself in a position of leadership, Taurus. Your confidence and charisma will be at an all-time high, and others will be drawn to your ideas and energy. Use this opportunity to make positive changes in your personal and professional life.",
+        "fr": "Ce mois-ci, vous pourriez vous retrouver dans une position de leadership, Taureau. Votre confiance et votre charisme seront à leur apogée, et les autres seront attirés par vos idées et votre énergie. Profitez de cette opportunité pour apporter des changements positifs dans votre vie personnelle et professionnelle.",
+        "es": "Este mes, podrías encontrarte en una posición de liderazgo, Tauro. Tu confianza y carisma estarán en su punto máximo, y otros se sentirán atraídos por tus ideas y energía. Aprovecha esta oportunidad para hacer cambios positivos en tu vida personal y profesional."
+        },
+        "year": {
+        "en": "This year, Taurus, you may feel a strong desire for change and transformation. It's time to break out of old habits and patterns that are holding you back and embrace new opportunities. You have the potential to achieve great success and fulfillment in all areas of your life, but it will require courage and a willingness to take risks.",
+        "fr": "Cette année, Taureau, vous pourriez ressentir un fort désir de changement et de transformation. Il est temps de sortir des vieilles habitudes et des schémas qui vous retiennent et d'embrasser de nouvelles opportunités. Vous avez le potentiel pour atteindre un grand succès et épanouissement dans tous les domaines de votre vie, mais cela nécessitera du courage et une disposition à prendre des risques.",
+        "es": "Este año, Tauro, podrías sentir un fuerte deseo de cambio y transformación. Es hora de romper con los viejos hábitos y patrones que te están frenando y abrazar nuevas oportunidades. Tienes el potencial para lograr un gran éxito y satisfacción en todas las áreas de tu vida, pero requerirá coraje y disposición para tomar riesgos."     
+        }
+    },
+    "Gemini": {
+        "yesterday": {
+            "en": "Yesterday, you may have felt a bit scattered and unfocused, making it difficult to accomplish your goals. It's okay, though, as today is a new day and a chance to start fresh.",
+            "fr": "Hier, vous avez peut-être eu l'impression d'être un peu dispersé et peu concentré, ce qui rendait difficile la réalisation de vos objectifs. Mais ce n'est pas grave, car aujourd'hui est un nouveau jour et une chance de repartir à zéro.",
+            "es": "Ayer, es posible que te hayas sentido un poco disperso y sin concentración, lo que dificultó el logro de tus metas. Pero está bien, hoy es un nuevo día y una oportunidad para comenzar de nuevo."
+            },
+            "today": {
+            "en": "Today, you may find that your communication skills are especially strong, making it a great time to have important conversations and make new connections. Trust your intuition and speak from the heart.",
+            "fr": "Aujourd'hui, vous pourriez constater que vos compétences en communication sont particulièrement solides, ce qui en fait un moment idéal pour avoir des conversations importantes et faire de nouvelles connexions. Faites confiance à votre intuition et parlez avec votre cœur.",
+            "es": "Hoy, es posible que descubras que tus habilidades de comunicación son especialmente fuertes, lo que lo convierte en un buen momento para tener conversaciones importantes y hacer nuevas conexiones. Confía en tu intuición y habla desde el corazón."
+            },
+            "week": {
+            "en": "This week, you may feel pulled in different directions, making it difficult to prioritize your goals. Take some time to evaluate what's most important to you and make a plan to stay on track.",
+            "fr": "Cette semaine, vous pourriez vous sentir tiré dans différentes directions, ce qui rend difficile la priorisation de vos objectifs. Prenez le temps d'évaluer ce qui est le plus important pour vous et établissez un plan pour rester sur la bonne voie.",
+            "es": "Esta semana, es posible que te sientas atraído en diferentes direcciones, lo que dificulta la priorización de tus metas. Tómate un tiempo para evaluar lo que es más importante para ti y hacer un plan para mantenerte en el camino correcto."
+            },
+            "month": {
+            "en": "This month, Geminis will experience a period of introspection and self-discovery. You may find yourself reflecting on past experiences and examining how they have shaped you into the person you are today. Take time to prioritize self-care and focus on your personal growth. It's important to let go of any negative self-talk and believe in your own potential. This is a time to set new goals and plan for the future.",
+            "fr": "Ce mois-ci, les Gémeaux connaîtront une période d'introspection et de découverte de soi. Vous pourriez vous retrouver à réfléchir aux expériences passées et à examiner comment elles vous ont façonné en la personne que vous êtes aujourd'hui. Prenez le temps de privilégier les soins personnels et de vous concentrer sur votre croissance personnelle. Il est important de laisser tomber tout discours négatif sur soi et de croire en son propre potentiel. C'est le moment de fixer de nouveaux objectifs et de planifier l'avenir.",
+            "es": "Este mes, los Géminis experimentarán un período de introspección y auto-descubrimiento. Es posible que se encuentre reflexionando sobre experiencias pasadas y examinando cómo lo han moldeado en la persona que es hoy. Dedique tiempo a priorizar el cuidado personal y enfoque en su crecimiento personal. Es importante dejar atrás cualquier diálogo negativo sobre uno mismo y creer en su propio potencial. Este es un momento para establecer nuevas metas y planificar el futuro."
+            },
+            "year": {
+            "en": "For Geminis, the year ahead is full of new opportunities and possibilities. You are likely to have a strong urge to explore new ideas and take on new challenges. This is a great time to push yourself out of your comfort zone and try new things. However, be mindful of taking on too much at once and remember to prioritize self-care. Your communication skills will be particularly strong this year, which will serve you well in both personal and professional relationships.",
+            "fr": "Pour les Gémeaux, l'année à venir est pleine de nouvelles opportunités et de possibilités. Vous êtes susceptible d'avoir une forte envie d'explorer de nouvelles idées et de relever de nouveaux défis. C'est un moment idéal pour vous sortir de votre zone de confort et essayer de nouvelles choses. Cependant, veillez à ne pas en faire trop à la fois et n'oubliez pas de privilégier les soins personnels. Vos compétences en communication seront particulièrement fortes cette année, ce qui vous sera utile tant dans les relations personnelles que professionnelles.",
+            "es": "Para los Géminis, el año por delante está lleno de nuevas oportunidades y posibilidades. Es probable que tenga un fuerte deseo de explorar nuevas ideas y asumir nuevos desafíos. Este es un gran momento para salir de su zona de confort y probar cosas nuevas. Sin embargo, tenga en cuenta de no tomar demasiado al mismo tiempo y recuerde priorizar el cuidado personal. Sus habilidades de comunicación serán particularmente fuertes este año, lo que le servirá bien tanto en relaciones personales como profesionales."
+            }
+    },
+    "Cancer": {
+        "yesterday": {
+        "en": "Yesterday may have felt like a bit of a struggle, but today you'll feel reinvigorated and ready to take on the world. Take advantage of this burst of energy and tackle any challenges that come your way.",
+        "fr": "Hier a peut-être été un peu difficile, mais aujourd'hui vous vous sentirez revigoré et prêt à affronter le monde. Profitez de cette poussée d'énergie et relevez tous les défis qui se présentent à vous.",
+        "es": "Ayer pudo haber sido un poco difícil, pero hoy te sentirás revitalizado y listo para enfrentar el mundo. Aprovecha este impulso de energía y enfrenta cualquier desafío que se presente en tu camino."
+        },
+        "today": {
+        "en": "Today is a good day to focus on your relationships. Whether it's with a romantic partner, a friend, or a family member, take some time to connect and communicate. Your emotional intelligence will serve you well today.",
+        "fr": "Aujourd'hui est une bonne journée pour se concentrer sur vos relations. Que ce soit avec un partenaire romantique, un ami ou un membre de votre famille, prenez le temps de vous connecter et de communiquer. Votre intelligence émotionnelle vous sera utile aujourd'hui.",
+        "es": "Hoy es un buen día para enfocarte en tus relaciones. Ya sea con una pareja romántica, un amigo o un miembro de la familia, tómate un tiempo para conectarte y comunicarte. Tu inteligencia emocional te servirá bien hoy."
+        },
+        "week": {
+        "en": "This week, you may find yourself feeling more introspective than usual. Take some time to reflect on your goals and values, and consider whether you're on the right path. Trust your instincts and don't be afraid to make changes if necessary.",
+        "fr": "Cette semaine, vous pourriez vous sentir plus introspectif que d'habitude. Prenez le temps de réfléchir à vos objectifs et à vos valeurs, et considérez si vous êtes sur la bonne voie. Faites confiance à votre instinct et n'hésitez pas à apporter des changements si nécessaire.",
+        "es": "Esta semana, es posible que te sientas más introspectivo de lo habitual. Tómate un tiempo para reflexionar sobre tus metas y valores, y considera si estás en el camino correcto. Confía en tus instintos y no tengas miedo de hacer cambios si es necesario."
+        },
+        "month": {
+        "en": "This month will be a time for introspection and reflection for you, Cancer. Take time to think about what you truly want out of life and what steps you need to take to get there. It's also a good time to connect with loved ones and strengthen those relationships.",
+        "fr": "Ce mois-ci sera un temps d'introspection et de réflexion pour vous, Cancer. Prenez le temps de réfléchir à ce que vous voulez vraiment dans la vie et aux étapes que vous devez prendre pour y arriver. C'est également un bon moment pour vous connecter avec vos proches et renforcer ces relations.",
+        "es": "Este mes será un tiempo de introspección y reflexión para ti, Cáncer. Tómate un tiempo para pensar en lo que realmente quieres de la vida y en los pasos que necesitas dar para llegar allí. También es un buen momento para conectarte con tus seres queridos y fortalecer esas relaciones."
+        },
+        "year": {
+        "en": "This year will bring new opportunities for growth and transformation for you, Cancer. It's important to stay true to yourself and your values, even when faced with challenges. Your relationships will also be a major focus this year, as you work to deepen your connections with those around you.",
+        "fr": "Cette année apportera de nouvelles opportunités de croissance et de transformation pour vous, Cancer. Il est important de rester fidèle à vous-même et à vos valeurs, même lorsque vous êtes confronté à des défis. Vos relations seront également un point central cette année, alors que vous travaillerez à approfondir vos liens avec ceux qui vous entourent.",
+        "es": "Este año traerá nuevas oportunidades de crecimiento y transformación para ti, Cáncer. Es importante que te mantengas fiel a ti mismo y a tus valores, incluso cuando enfrentes desafíos. Tus relaciones también serán un punto focal importante este año, ya que trabajarás para profundizar tus conexiones con quienes te rodean."
+        }
+    },
+    "Leo": {
+        "yesterday": {
+        "en": "Yesterday, you may have experienced some tension in your personal relationships, but it's important to remember that everyone has their own struggles. Try to approach conflicts with understanding and patience.",
+        "fr": "Hier, vous avez peut-être ressenti une certaine tension dans vos relations personnelles, mais il est important de se rappeler que chacun a ses propres luttes. Essayez d'aborder les conflits avec compréhension et patience.",
+        "es": "Ayer, es posible que hayas experimentado cierta tensión en tus relaciones personales, pero es importante recordar que cada persona tiene sus propias luchas. Trata de abordar los conflictos con comprensión y paciencia."
+        },
+        "today": {
+        "en": "Today, you may feel more creative and inspired than usual. Use this energy to pursue your passions and express yourself through your favorite artistic medium.",
+        "fr": "Aujourd'hui, vous pourriez vous sentir plus créatif et inspiré que d'habitude. Utilisez cette énergie pour poursuivre vos passions et vous exprimer à travers votre médium artistique préféré.",
+        "es": "Hoy puedes sentirte más creativo e inspirado de lo habitual. Utiliza esta energía para perseguir tus pasiones y expresarte a través de tu medio artístico favorito."
+        },
+        "week": {
+        "en": "This week, you may have some important decisions to make regarding your career or personal life. Take some time to reflect on your priorities and values before making any big moves.",
+        "fr": "Cette semaine, vous pourriez avoir à prendre des décisions importantes concernant votre carrière ou votre vie personnelle. Prenez le temps de réfléchir à vos priorités et à vos valeurs avant de faire des choix importants.",
+        "es": "Esta semana, puedes tener que tomar decisiones importantes con respecto a tu carrera o vida personal. Tómate un tiempo para reflexionar sobre tus prioridades y valores antes de tomar cualquier decisión importante."
+        },
+        "month": {
+        "en": "This month, you may experience a new level of confidence and assertiveness. Use this energy to go after your goals and pursue your dreams with conviction and determination.",
+        "fr": "Ce mois-ci, vous pourriez vivre un nouveau niveau de confiance et d'assertivité. Utilisez cette énergie pour poursuivre vos objectifs et réaliser vos rêves avec conviction et détermination.",
+        "es": "Este mes, puedes experimentar un nuevo nivel de confianza y determinación. Utiliza esta energía para perseguir tus metas y perseguir tus sueños con convicción y determinación."
+        },
+        "year": {
+        "en": "This year, you may have some major opportunities for growth and success in your career or personal life. Keep an open mind and be willing to take risks in order to achieve your goals.",
+        "fr": "Cette année, vous pourriez avoir de grandes opportunités de croissance et de réussite dans votre carrière ou votre vie personnelle. Gardez l'esprit ouvert et soyez prêt à prendre des risques pour atteindre vos objectifs.",
+        "es": "Este año, puedes tener grandes oportunidades de crecimiento y éxito en tu carrera o vida personal. Mantén la mente abierta y esté dispuesto a tomar riesgos para lograr tus objetivos."
+        }
+    },
+    "Libra": {
+        "yesterday": {
+        "en": "Yesterday, Libra, you may have found yourself feeling a bit indecisive. Perhaps you were torn between two options, unsure of which one to choose. Use this experience as a lesson to trust your instincts more and make decisions with confidence.",
+        "fr": "Hier, Balance, vous avez peut-être ressenti une certaine indécision. Peut-être étiez-vous partagé entre deux options, incertain de laquelle choisir. Utilisez cette expérience comme une leçon pour avoir plus confiance en vos instincts et prendre des décisions avec assurance.",
+        "es": "Ayer, Libra, es posible que te hayas sentido un poco indeciso. Quizás estuviste entre dos opciones, sin estar seguro de cuál elegir. Utiliza esta experiencia como una lección para confiar más en tus instintos y tomar decisiones con confianza."
+        },
+        "today": {
+        "en": "Today, Libra, your focus may be on your relationships with others. It's a good day to connect with loved ones and strengthen those bonds. You may also find yourself feeling more diplomatic and inclined to resolve any conflicts that may arise.",
+        "fr": "Aujourd'hui, Balance, votre attention pourrait se porter sur vos relations avec les autres. C'est une bonne journée pour vous connecter avec vos proches et renforcer ces liens. Vous pourriez également vous sentir plus diplomate et enclin à résoudre tout conflit qui pourrait surgir.",
+        "es": "Hoy, Libra, tu enfoque puede estar en tus relaciones con los demás. Es un buen día para conectarte con tus seres queridos y fortalecer esos lazos. También es posible que te sientas más diplomático e inclinado a resolver cualquier conflicto que pueda surgir."
+        },
+        "week": {
+        "en": "This week, Libra, you may feel a strong desire for balance and harmony in your life. You may find yourself seeking out peaceful environments and avoiding conflict. It's a good time to focus on self-care and finding ways to reduce stress in your daily routine.",
+        "fr": "Cette semaine, Balance, vous pourriez ressentir un fort désir d'équilibre et d'harmonie dans votre vie. Vous pourriez vous retrouver à chercher des environnements paisibles et à éviter les conflits. C'est un bon moment pour vous concentrer sur l'auto-soin et trouver des moyens de réduire le stress dans votre routine quotidienne.",
+        "es": "Esta semana, Libra, puedes sentir un fuerte deseo de equilibrio y armonía en tu vida. Es posible que te encuentres buscando entornos pacíficos y evitando conflictos. Es un buen momento para centrarse en el cuidado personal y encontrar formas de reducir el estrés en tu rutina diaria."
+        },
+        "month": {
+            "en": "This month, you will feel a strong urge to connect with others and build meaningful relationships. You may also experience some tension in your personal and professional relationships, but it's important to communicate openly and honestly to resolve any conflicts. Use your diplomatic skills to find common ground and compromise. You may also feel inspired to pursue new creative endeavors, so don't be afraid to take risks and express yourself!",
+            "fr": "Ce mois-ci, vous ressentirez un fort désir de vous connecter avec les autres et de construire des relations significatives. Vous pouvez également ressentir une certaine tension dans vos relations personnelles et professionnelles, mais il est important de communiquer ouvertement et honnêtement pour résoudre tout conflit. Utilisez vos compétences diplomatiques pour trouver un terrain d'entente et faire des compromis. Vous pouvez également être inspiré pour poursuivre de nouvelles entreprises créatives, alors n'ayez pas peur de prendre des risques et de vous exprimer !",
+            "es": "Este mes, sentirás una fuerte necesidad de conectarte con los demás y construir relaciones significativas. También puedes experimentar cierta tensión en tus relaciones personales y profesionales, pero es importante comunicarse abierta y honestamente para resolver cualquier conflicto. Usa tus habilidades diplomáticas para encontrar puntos en común y hacer compromisos. También puedes sentirte inspirado para buscar nuevos emprendimientos creativos, así que no temas tomar riesgos y expresarte!"
+          },
+          "year": {
+            "en": "This year, you will be called upon to make important decisions that will impact your personal and professional life. It's important to take a balanced approach and consider all perspectives before making any big moves. Trust your intuition, but also seek advice and guidance from trusted friends and mentors. You may also find yourself drawn to new hobbies or interests that challenge you in new ways. Embrace these opportunities for personal growth and self-discovery!",
+            "fr": "Cette année, vous serez appelé à prendre des décisions importantes qui auront un impact sur votre vie personnelle et professionnelle. Il est important d'adopter une approche équilibrée et de considérer toutes les perspectives avant de prendre des décisions importantes. Faites confiance à votre intuition, mais cherchez également des conseils et des orientations auprès d'amis et de mentors de confiance. Vous pouvez également être attiré par de nouveaux passe-temps ou centres d'intérêt qui vous mettent au défi de nouvelles manières. Profitez de ces occasions pour une croissance personnelle et une auto-découverte !",
+            "es": "Este año, se te pedirá que tomes decisiones importantes que tendrán un impacto en tu vida personal y profesional. Es importante adoptar un enfoque equilibrado y considerar todas las perspectivas antes de tomar grandes decisiones. Confía en tu intuición, pero también busca consejos y orientación de amigos y mentores de confianza. También puedes encontrarte atraído por nuevos pasatiempos o intereses que te desafíen de nuevas maneras. ¡Aprovecha estas oportunidades para un crecimiento personal y auto-descubrimiento!"
+          }
+    },
+    "Sagittarius": {
+        "yesterday": {
+            "en": "You may have felt a sense of restlessness or impatience yesterday, Sagittarius. It's important to channel that energy into something productive rather than letting it become a source of frustration. Take some time to focus on your long-term goals and make a plan to achieve them. With a little determination, you can make significant progress.",
+            "fr": "Vous avez peut-être ressenti un sentiment d'agitation ou d'impatience hier, Sagittaire. Il est important de canaliser cette énergie dans quelque chose de productif plutôt que de la laisser devenir une source de frustration. Prenez le temps de vous concentrer sur vos objectifs à long terme et élaborez un plan pour les atteindre. Avec un peu de détermination, vous pouvez faire des progrès significatifs.",
+            "es": "Es posible que ayer hayas sentido una sensación de inquietud o impaciencia, Sagitario. Es importante canalizar esa energía en algo productivo en lugar de dejar que se convierta en una fuente de frustración. Tómate un tiempo para enfocarte en tus objetivos a largo plazo y elaborar un plan para lograrlos. Con un poco de determinación, puedes hacer un progreso significativo."
+            },
+            "today": {
+            "en": "You may feel a strong urge to break free from routine today, Sagittarius. Embrace this feeling and explore new opportunities that come your way. Be open to new experiences and don't be afraid to take risks. However, be mindful of your commitments and responsibilities. Finding a balance between adventure and obligation will lead to a fulfilling day.",
+            "fr": "Vous pourriez ressentir aujourd'hui une forte envie de vous libérer de la routine, Sagittaire. Embrassez ce sentiment et explorez de nouvelles opportunités qui se présentent à vous. Soyez ouvert aux nouvelles expériences et n'ayez pas peur de prendre des risques. Cependant, soyez conscient de vos engagements et responsabilités. Trouver un équilibre entre l'aventure et l'obligation mènera à une journée épanouissante.",
+            "es": "Hoy puedes sentir una fuerte necesidad de romper con la rutina, Sagitario. Acepta este sentimiento y explora nuevas oportunidades que se presenten en tu camino. Abre tu mente a nuevas experiencias y no tengas miedo de correr riesgos. Sin embargo, ten en cuenta tus compromisos y responsabilidades. Encontrar un equilibrio entre la aventura y la obligación te llevará a un día gratificante."
+            },
+            "week": {
+                "en": "This week, you may feel a strong urge to explore new territories and seek out new experiences. You may feel like taking risks and stepping outside of your comfort zone. However, it's important to balance your sense of adventure with practicality and responsibility. Take calculated risks and make sure to consider the potential consequences of your actions. This week is also a good time to focus on your personal growth and self-improvement. Reflect on your values and beliefs, and think about how you can live in alignment with them.",
+                "fr": "Cette semaine, vous pourriez ressentir une forte envie d'explorer de nouveaux territoires et de rechercher de nouvelles expériences. Vous pourriez avoir envie de prendre des risques et de sortir de votre zone de confort. Cependant, il est important d'équilibrer votre sens de l'aventure avec la pratique et la responsabilité. Prenez des risques calculés et assurez-vous de prendre en compte les conséquences potentielles de vos actions. Cette semaine est également un bon moment pour vous concentrer sur votre croissance personnelle et votre auto-amélioration. Réfléchissez à vos valeurs et à vos croyances, et réfléchissez à la manière dont vous pouvez vivre en harmonie avec elles.",
+                "es": "Esta semana, es posible que sienta un fuerte impulso de explorar nuevos territorios y buscar nuevas experiencias. Es posible que sienta ganas de correr riesgos y salir de su zona de confort. Sin embargo, es importante equilibrar su sentido de la aventura con la practicidad y la responsabilidad. Tome riesgos calculados y asegúrese de considerar las posibles consecuencias de sus acciones. Esta semana también es un buen momento para enfocarse en su crecimiento personal y auto-mejora. Reflexione sobre sus valores y creencias, y piense en cómo puede vivir en alineación con ellos."
+            },
+            "month": {
+                "en": "You may find yourself feeling restless this month, Sagittarius. Your adventurous spirit is calling out for a new experience, but you may feel trapped in your current situation. Take some time to reflect on what truly makes you happy and pursue it. This is also a good time to focus on your relationships and make sure that they are bringing positivity and growth to your life.",
+                "fr": "Vous pourriez vous sentir agité ce mois-ci, Sagittaire. Votre esprit aventureux appelle à une nouvelle expérience, mais vous pourriez vous sentir piégé dans votre situation actuelle. Prenez le temps de réfléchir à ce qui vous rend vraiment heureux et poursuivez-le. C'est également un bon moment pour vous concentrer sur vos relations et vous assurer qu'elles apportent de la positivité et de la croissance dans votre vie.",
+                "es": "Este mes, Sagitario, es posible que te sientas inquieto. Tu espíritu aventurero está llamando a una nueva experiencia, pero puede que te sientas atrapado en tu situación actual. Tómate un tiempo para reflexionar sobre lo que realmente te hace feliz y persíguelo. Este también es un buen momento para enfocarte en tus relaciones y asegurarte de que estén aportando positividad y crecimiento a tu vida."
+              },
+              "year": {
+                "en": "The year ahead looks promising for you, Sagittarius. You may find yourself embarking on new adventures, both personally and professionally. It's important to trust your intuition and take risks when necessary. However, be sure to also take time to reflect on your goals and priorities, and make sure they align with your values. This year, focus on cultivating meaningful relationships and building a strong foundation for your future.",
+                "fr": "L'année à venir semble prometteuse pour vous, Sagittaire. Vous pourriez vous retrouver à entreprendre de nouvelles aventures, tant sur le plan personnel que professionnel. Il est important de faire confiance à votre intuition et de prendre des risques lorsque cela est nécessaire. Cependant, prenez également le temps de réfléchir à vos objectifs et priorités, et assurez-vous qu'ils correspondent à vos valeurs. Cette année, concentrez-vous sur la cultivation de relations significatives et la construction d'une base solide pour votre avenir.",
+                "es": "El año que viene parece prometedor para ti, Sagitario. Es posible que te encuentres embarcándote en nuevas aventuras, tanto personal como profesionalmente. Es importante confiar en tu intuición y tomar riesgos cuando sea necesario. Sin embargo, asegúrate también de tomar tiempo para reflexionar sobre tus metas y prioridades, y asegurarte de que se alinean con tus valores. Este año, enfócate en cultivar relaciones significativas y construir una base sólida para tu futuro."
+              }
+    },
+    "Scorpio": {
+        "yesterday": {
+            "en": "Yesterday, you may have felt a bit of tension or conflict with those around you. It's important to try to communicate effectively and avoid getting into unnecessary arguments. Take some time to reflect on your emotions and work on finding balance.",
+            "fr": "Hier, vous avez peut-être ressenti un peu de tension ou de conflit avec votre entourage. Il est important d'essayer de communiquer efficacement et d'éviter de se lancer dans des arguments inutiles. Prenez le temps de réfléchir sur vos émotions et de travailler à trouver l'équilibre.",
+            "es": "Ayer, es posible que hayas sentido un poco de tensión o conflicto con los que te rodean. Es importante tratar de comunicarse de manera efectiva y evitar caer en discusiones innecesarias. Tómate un tiempo para reflexionar sobre tus emociones y trabajar en encontrar el equilibrio."
+        },
+        "today": {
+            "en": "Today is a good day to focus on your goals and ambitions. You have the drive and determination to achieve what you set your mind to. However, be mindful of your interactions with others, as your intensity may come off as intimidating. Take breaks throughout the day to recharge and avoid burnout.",
+            "fr": "Aujourd'hui est une bonne journée pour se concentrer sur vos objectifs et ambitions. Vous avez la volonté et la détermination pour atteindre ce que vous avez en tête. Cependant, soyez conscient de vos interactions avec les autres, car votre intensité peut être intimidante. Prenez des pauses tout au long de la journée pour vous ressourcer et éviter l'épuisement.",
+            "es": "Hoy es un buen día para enfocarse en tus metas y ambiciones. Tienes la impulsión y la determinación para lograr lo que te propongas. Sin embargo, ten cuidado con tus interacciones con los demás, ya que tu intensidad puede parecer intimidante. Tómate descansos a lo largo del día para recargar energías y evitar el agotamiento."
+        },
+        "week": {
+            "en": "This week, you may find yourself feeling more emotional than usual. Use this time to reflect on your relationships and how you can improve them. It's also a good time to focus on your personal growth and make positive changes in your life. Be patient with yourself and others, and don't be afraid to ask for help when you need it.",
+            "fr": "Cette semaine, vous pourriez vous sentir plus émotionnel(le) que d'habitude. Utilisez ce temps pour réfléchir sur vos relations et comment vous pouvez les améliorer. C'est également un bon moment pour se concentrer sur votre croissance personnelle et faire des changements positifs dans votre vie. Soyez patient(e) avec vous-même et les autres, et n'hésitez pas à demander de l'aide lorsque vous en avez besoin.",
+            "es": "Esta semana, es posible que te sientas más emocional de lo habitual. Aprovecha este tiempo para reflexionar sobre tus relaciones y cómo puedes mejorarlas. También es un buen momento para centrarte en tu crecimiento personal y hacer cambios positivos en tu vida. Sé paciente contigo mismo y con los demás, y no tengas miedo de pedir ayuda cuando la necesites."
+        },
+        "month": {
+            "en": "This month, you may find yourself drawn to new experiences and adventures. Your sense of curiosity is heightened, and you're eager to explore uncharted territories. However, be mindful of taking unnecessary risks and make sure to consider the consequences of your actions. Take the time to also nurture your emotional well-being and practice self-care.",
+            "fr": "Ce mois-ci, vous pourriez vous sentir attiré(e) par de nouvelles expériences et des aventures. Votre curiosité est aiguisée et vous êtes impatient(e) d'explorer des territoires inexplorés. Cependant, veillez à ne pas prendre de risques inutiles et assurez-vous de bien réfléchir aux conséquences de vos actions. Prenez également le temps de prendre soin de votre bien-être émotionnel et de pratiquer l'auto-soin.",
+            "es": "Este mes, es posible que te sientas atraído(a) por nuevas experiencias y aventuras. Tu sentido de la curiosidad se intensifica y estás ansioso(a) por explorar territorios desconocidos. Sin embargo, ten cuidado de no tomar riesgos innecesarios y asegúrate de considerar las consecuencias de tus acciones. Tómate el tiempo también para cuidar tu bienestar emocional y practicar el autocuidado."
+          },
+          "year": {
+            "en": "This year, you may experience a lot of changes in your personal and professional life. You're being called to let go of old habits and ways of thinking that no longer serve you. Embrace the new opportunities that come your way and don't be afraid to take risks. Trust your intuition and listen to your inner voice. This is a year of transformation and growth, and you have the power to make it a positive one.",
+            "fr": "Cette année, vous pourriez connaître beaucoup de changements dans votre vie personnelle et professionnelle. On vous demande de lâcher prise des vieilles habitudes et des façons de penser qui ne vous servent plus. Embrassez les nouvelles opportunités qui se présentent à vous et n'ayez pas peur de prendre des risques. Faites confiance à votre intuition et écoutez votre voix intérieure. Cette année est celle de la transformation et de la croissance, et vous avez le pouvoir de la rendre positive.",
+            "es": "Este año, es posible que experimentes muchos cambios en tu vida personal y profesional. Se te pide que sueltes viejos hábitos y formas de pensar que ya no te sirven. Acepta las nuevas oportunidades que se presentan y no tengas miedo de tomar riesgos. Confía en tu intuición y escucha tu voz interior. Este es un año de transformación y crecimiento, y tienes el poder de hacerlo positivo."
+          }
+    },
+    "Capricorn": {
+        "yesterday": {
+        "en": "You may have felt a bit overwhelmed yesterday, Capricorn. It's important to take time to rest and recharge when you feel this way. Look for opportunities to delegate tasks and share responsibilities with others. This will help you feel more in control and less stressed.",
+        "fr": "Vous avez peut-être ressenti un peu de stress hier, Capricorne. Il est important de prendre le temps de se reposer et de se ressourcer lorsque vous vous sentez ainsi. Cherchez des occasions de déléguer des tâches et de partager des responsabilités avec les autres. Cela vous aidera à vous sentir plus en contrôle et moins stressé.",
+        "es": "Es posible que te hayas sentido un poco abrumado ayer, Capricornio. Es importante tomar tiempo para descansar y recargar energías cuando te sientes así. Busca oportunidades para delegar tareas y compartir responsabilidades con otros. Esto te ayudará a sentirte más en control y menos estresado."
+        },
+        "today": {
+        "en": "Today, Capricorn, you may feel a renewed sense of energy and motivation. Use this burst of inspiration to tackle tasks that you have been putting off. Focus on making progress towards your goals, even if it is just a small step. Celebrate your successes, no matter how small they may be.",
+        "fr": "Aujourd'hui, Capricorne, vous pouvez ressentir un nouveau souffle d'énergie et de motivation. Utilisez cette inspiration pour aborder les tâches que vous avez repoussées. Concentrez-vous sur la progression vers vos objectifs, même s'il s'agit d'un petit pas. Célébrez vos succès, même s'ils sont petits.",
+        "es": "Hoy, Capricornio, puedes sentir un renovado sentido de energía y motivación. Usa este impulso de inspiración para abordar tareas que has estado posponiendo. Concéntrate en avanzar hacia tus metas, aunque sea solo un pequeño paso. Celebra tus éxitos, por pequeños que sean."
+        },
+        "week": {
+        "en": "This week, Capricorn, you may find yourself dealing with some unexpected challenges. Don't let these obstacles discourage you, as they are an opportunity for growth and learning. Remember to take care of yourself and prioritize your well-being. Reach out to trusted friends or family members for support if you need it.",
+        "fr": "Cette semaine, Capricorne, vous pourriez vous retrouver confronté à des défis inattendus. Ne laissez pas ces obstacles vous décourager, car ils sont une occasion de croissance et d'apprentissage. N'oubliez pas de prendre soin de vous et de prioriser votre bien-être. Demandez de l'aide à des amis ou des membres de la famille de confiance si vous en avez besoin.",
+        "es": "Esta semana, Capricornio, es posible que te enfrentes a algunos desafíos inesperados. No dejes que estos obstáculos te desanimen, ya que son una oportunidad para el crecimiento y el aprendizaje. Recuerda cuidar de ti mismo y priorizar tu bienestar. Busca el apoyo de amigos o familiares en los que confíes si lo necesitas."
+        },
+        "month": {
+        "en": "This month, Capricorn, you will have the opportunity to showcase your skills and talents in your career. It's a good time to focus on your professional goals and take steps towards achieving them. However, be mindful of your work-life balance and make sure to take care of your personal life as well. Trust your intuition and take calculated risks, as they may lead to great success.",
+        "fr": "Ce mois-ci, Capricorne, vous aurez l'occasion de mettre en avant vos compétences et vos talents dans votre carrière. C'est un bon moment pour vous concentrer sur vos objectifs professionnels et prendre des mesures pour les atteindre. Cependant, soyez conscient de votre équilibre entre vie professionnelle et personnelle et assurez-vous de prendre soin de votre vie privée également. Faites confiance à votre intuition et prenez des risques calculés, car ils peuvent conduire à un grand succès.",
+        "es": "Este mes, Capricornio, tendrás la oportunidad de mostrar tus habilidades y talentos en tu carrera. Es un buen momento para enfocarte en tus metas profesionales y tomar medidas para alcanzarlas. Sin embargo, ten en cuenta tu equilibrio entre trabajo y vida personal y asegúrate de cuidar también tu vida privada. Confía en tu intuición y toma riesgos calculados, ya que pueden llevarte al gran éxito."
+        },
+        "year": {
+        "en": "This year, Capricorn, you will face some challenges but they will ultimately lead to growth and success. It's important to maintain a positive attitude and have faith in your abilities. Focus on your goals and take practical steps towards achieving them. Be open to new opportunities and collaborations, as they may bring unexpected benefits. Remember to take care of your health and well-being, as they are key to your success.",
+        "fr": "Cette année, Capricorne, vous ferez face à certains défis mais ils vous mèneront finalement à la croissance et au succès. Il est important de maintenir une attitude positive et de croire en vos capacités. Concentrez-vous sur vos objectifs et prenez des mesures pratiques pour les atteindre. Soyez ouvert aux nouvelles opportunités et collaborations, car elles peuvent apporter des avantages inattendus. N'oubliez pas de prendre soin de votre santé et de votre bien-être, car ils sont la clé de votre succès.",
+        "es": "Este año, Capricornio, enfrentarás algunos desafíos, pero finalmente te llevarán al crecimiento y al éxito. Es importante mantener una actitud positiva y tener fe en tus habilidades. Enfócate en tus metas y toma medidas prácticas para alcanzarlas. Abre tu mente a nuevas oportunidades y colaboraciones, ya que pueden traer beneficios inesperados. Recuerda cuidar tu salud y bienestar, ya que son clave para tu éxito."
+        }
+    },
+    "Aquarius": {
+        "yesterday": {
+            "en": "You may have felt a bit scattered yesterday, Aquarius. It's important to take some time to slow down and focus on what's most important. Make a to-do list and prioritize your tasks to avoid feeling overwhelmed.",
+            "fr": "Vous avez peut-être eu l'impression d'être un peu dispersé hier, Verseau. Il est important de prendre le temps de ralentir et de vous concentrer sur ce qui est le plus important. Faites une liste de choses à faire et priorisez vos tâches pour éviter de vous sentir submergé.",
+            "es": "Es posible que se haya sentido un poco disperso ayer, Acuario. Es importante tomarse un tiempo para reducir la velocidad y concentrarse en lo que es más importante. Haga una lista de tareas pendientes y priorice sus tareas para evitar sentirse abrumado."
+        },
+        "today": {
+            "en": "Aquarius, today you may find yourself craving more independence and freedom. It's important to communicate your needs to others, but also to be open to compromise. Remember that healthy relationships involve give-and-take.",
+            "fr": "Aujourd'hui, Verseau, vous pouvez ressentir le besoin d'avoir plus d'indépendance et de liberté. Il est important de communiquer vos besoins aux autres, mais aussi d'être ouvert à la compromis. Rappelez-vous que les relations saines impliquent des compromis.",
+            "es": "Acuario, hoy puede sentir la necesidad de tener más independencia y libertad. Es importante comunicar sus necesidades a los demás, pero también estar abierto a compromisos. Recuerde que las relaciones saludables implican dar y recibir."
+        },
+        "week": {
+            "en": "This week, Aquarius, you may feel like you're being pulled in different directions. Try to stay focused on your priorities and avoid getting sidetracked by distractions. Remember that it's okay to say no to commitments that don't align with your values and goals.",
+            "fr": "Cette semaine, Verseau, vous pouvez avoir l'impression d'être tiré dans différentes directions. Essayez de rester concentré sur vos priorités et évitez de vous laisser distraire par des distractions. Rappelez-vous qu'il est acceptable de refuser des engagements qui ne correspondent pas à vos valeurs et objectifs.",
+            "es": "Esta semana, Acuario, puede sentir que está siendo arrastrado en diferentes direcciones. Trate de mantenerse enfocado en sus prioridades y evite desviarse con distracciones. Recuerde que está bien decir no a compromisos que no se alinean con sus valores y objetivos."
+        },
+        "month": {
+        "en": "This month, Aquarius, you may find yourself feeling more social than usual. Take advantage of this time to connect with friends and expand your social circle. You may also have some creative ideas that you want to share with others, so don't be afraid to speak up. This is a good time to pursue your passions and hobbies, as they may lead to new opportunities.",
+        "fr": "Ce mois-ci, Verseau, vous pourriez vous sentir plus social que d'habitude. Profitez de cette période pour vous connecter avec des amis et élargir votre cercle social. Vous pourriez également avoir des idées créatives que vous voulez partager avec les autres, donc n'hésitez pas à vous exprimer. C'est un bon moment pour poursuivre vos passions et vos passe-temps, car ils pourraient vous ouvrir de nouvelles opportunités.",
+        "es": "Este mes, Acuario, es posible que te sientas más social de lo normal. Aprovecha este momento para conectarte con amigos y expandir tu círculo social. También puedes tener algunas ideas creativas que deseas compartir con otros, así que no tengas miedo de expresarte. Este es un buen momento para seguir tus pasiones y aficiones, ya que podrían llevar a nuevas oportunidades."
+        },
+        "year": {
+        "en": "Aquarius, this year is a time for personal growth and self-discovery. You may find yourself questioning your values and beliefs, and seeking out new experiences and knowledge. This is a good time to focus on your own goals and aspirations, and to not be afraid to take risks. Trust your intuition and follow your heart, as it will lead you to where you need to be.",
+        "fr": "Verseau, cette année est une période de croissance personnelle et de découverte de soi. Vous pourriez remettre en question vos valeurs et vos croyances, et rechercher de nouvelles expériences et connaissances. C'est un bon moment pour vous concentrer sur vos propres objectifs et aspirations, et ne pas avoir peur de prendre des risques. Faites confiance à votre intuition et suivez votre cœur, car il vous mènera là où vous devez être.",
+        "es": "Acuario, este año es un momento para el crecimiento personal y el autodescubrimiento. Es posible que te cuestiones tus valores y creencias, y busques nuevas experiencias y conocimientos. Este es un buen momento para centrarte en tus propios objetivos y aspiraciones, y no tener miedo de correr riesgos. Confía en tu intuición y sigue tu corazón, ya que te llevará a donde necesitas estar."
+        }
+    },
+    "Pisces": {
+        "yesterday": {
+        "en": "Yesterday may have been a bit chaotic for you, Pisces. But today, you can regroup and refocus your energy. Take some time to prioritize your tasks and responsibilities, and don't be afraid to ask for help if needed. This week, it's important to stay grounded and avoid getting overwhelmed by the demands of others.",
+        "fr": "Hier, cela a peut-être été un peu chaotique pour vous, Poissons. Mais aujourd'hui, vous pouvez vous regrouper et recentrer votre énergie. Prenez le temps de hiérarchiser vos tâches et vos responsabilités, et n'hésitez pas à demander de l'aide si nécessaire. Cette semaine, il est important de rester ancré et d'éviter de vous sentir dépassé par les demandes des autres.",
+        "es": "Ayer puede haber sido un poco caótico para ti, Piscis. Pero hoy puedes reagruparte y enfocar de nuevo tu energía. Tómate un tiempo para priorizar tus tareas y responsabilidades, y no dudes en pedir ayuda si es necesario. Esta semana es importante mantenerse centrado y evitar sentirse abrumado por las demandas de los demás."
+        },
+        "today": {
+        "en": "Today, Pisces, you may feel inspired to pursue a new creative project or hobby. Trust your intuition and let your imagination guide you. Don't be afraid to take risks and try something new. This week, focus on nurturing your relationships and finding ways to connect with loved ones.",
+        "fr": "Aujourd'hui, Poissons, vous pourriez vous sentir inspiré pour poursuivre un nouveau projet créatif ou un passe-temps. Faites confiance à votre intuition et laissez votre imagination vous guider. N'hésitez pas à prendre des risques et à essayer quelque chose de nouveau. Cette semaine, concentrez-vous sur le développement de vos relations et trouvez des moyens de vous connecter avec vos proches.",
+        "es": "Hoy, Piscis, es posible que sientas la inspiración de perseguir un nuevo proyecto creativo o pasatiempo. Confía en tu intuición y deja que tu imaginación te guíe. No tengas miedo de tomar riesgos y probar algo nuevo. Esta semana, concéntrate en nutrir tus relaciones y encontrar formas de conectarte con tus seres queridos."
+        },
+        "week": {
+        "en": "This week, Pisces, you may find yourself reflecting on your values and beliefs. Use this time to explore what truly matters to you and how you can align your actions with your principles. Don't be afraid to stand up for what you believe in, even if it means going against the norm. Remember to take care of yourself and prioritize your mental and emotional well-being.",
+        "fr": "Cette semaine, Poissons, vous pourriez vous retrouver à réfléchir à vos valeurs et croyances. Utilisez ce temps pour explorer ce qui compte vraiment pour vous et comment vous pouvez aligner vos actions avec vos principes. N'hésitez pas à défendre ce en quoi vous croyez, même si cela signifie aller à l'encontre de la norme. N'oubliez pas de prendre soin de vous et de prioriser votre bien-être mental et émotionnel.",
+        "es": "Esta semana, Piscis, es posible que te encuentres reflexionando sobre tus valores y creencias. Usa este tiempo para explorar lo que realmente te importa y cómo puedes alinear tus acciones con tus principios. No tengas miedo de defender lo que crees, incluso si significa ir en contra de la norma. Recuerda cuidar de ti mismo y priorizar tu bienestar mental y emocional."
+        },
+        "month": {
+        "en": "This month, Pisces, you may experience a strong desire to break free from your routine and explore new horizons. This is a great time to take risks and pursue your passions, whether it's trying a new hobby or embarking on a new adventure. However, remember to stay grounded and maintain a sense of balance in your life. Pay attention to your emotions and take care of your mental and physical well-being.",
+        "fr": "Ce mois-ci, Poissons, vous pourriez ressentir un fort désir de sortir de votre routine et d'explorer de nouveaux horizons. C'est un excellent moment pour prendre des risques et poursuivre vos passions, que ce soit en essayant un nouveau passe-temps ou en vous lançant dans une nouvelle aventure. Cependant, n'oubliez pas de rester ancré et de maintenir un sentiment d'équilibre dans votre vie. Soyez attentif à vos émotions et prenez soin de votre bien-être mental et physique.",
+        "es": "Este mes, Piscis, es posible que experimentes un fuerte deseo de romper con tu rutina y explorar nuevos horizontes. Este es un gran momento para correr riesgos y perseguir tus pasiones, ya sea probando un nuevo pasatiempo o embarcándote en una nueva aventura. Sin embargo, recuerda mantener los pies en la tierra y mantener un sentido de equilibrio en tu vida. Presta atención a tus emociones y cuida tu bienestar mental y físico."
+        },
+        "year": {
+        "en": "This year, Pisces, you may experience a significant shift in your perspective and priorities. You may feel a strong urge to let go of old patterns and embrace new opportunities for growth and learning. It's important to trust your intuition and follow your heart, even if it means stepping outside of your comfort zone. Remember to take care of your physical and mental health, and seek support from loved ones when needed.",
+        "fr": "Cette année, Poissons, vous pourriez connaître un changement significatif dans votre perspective et vos priorités. Vous pourriez ressentir une forte envie de laisser tomber les anciens schémas et d'embrasser de nouvelles opportunités de croissance et d'apprentissage. Il est important de faire confiance à votre intuition et de suivre votre cœur, même si cela signifie sortir de votre zone de confort. N'oubliez pas de prendre soin de votre santé physique et mentale, et de chercher du soutien auprès de vos proches en cas de besoin.",
+        "es": "Este año, Piscis, es posible que experimentes un cambio significativo en tu perspectiva y prioridades. Puedes sentir una fuerte necesidad de dejar ir los patrones antiguos y abrazar nuevas oportunidades de crecimiento y aprendizaje. Es importante confiar en tu intuición y seguir tu corazón, incluso si eso significa salir de tu zona de confort. Recuerda cuidar tu salud física y mental, y buscar apoyo de tus seres queridos cuando lo necesites."
+        }
+    }
+}
