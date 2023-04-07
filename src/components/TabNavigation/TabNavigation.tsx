@@ -18,26 +18,27 @@ const TabNavigation: React.FC<TabNavigationProps> = ({
   const theme = React.useContext(ThemeContext);
 
   const styles = StyleSheet.create({
-    container: {
-      height: 48,
-      backgroundColor: theme.colors.secondary,
-    },
+    container: {},
     tab: {
       flex: 1,
-      paddingHorizontal: 10,
       minWidth: 80,
       justifyContent: 'center',
       alignItems: 'center',
+      paddingBottom: 2,
+      borderBottomWidth: 1,
+      borderBottomColor: 'grey',
     },
     tabText: {
-      color: theme.colors.secondary,
+      color: 'grey',
+      textTransform: 'uppercase',
       fontWeight: 'bold',
+      fontSize: 14,
     },
     activeTab: {
-      backgroundColor: theme.colors.background,
+      borderBottomColor: theme.colors.text,
     },
     activeTabText: {
-      color: theme.colors.primary,
+      color: theme.colors.text,
     },
   });
 
@@ -49,7 +50,11 @@ const TabNavigation: React.FC<TabNavigationProps> = ({
             key={tab}
             style={[styles.tab, activeTab === tab && styles.activeTab]}
             onPress={() => onTabPress(tab)}>
-            <MyText style={[activeTab === tab && styles.activeTabText]}>
+            <MyText
+              style={[
+                styles.tabText,
+                activeTab === tab && styles.activeTabText,
+              ]}>
               {tab}
             </MyText>
           </TouchableOpacity>

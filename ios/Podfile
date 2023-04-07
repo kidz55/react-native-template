@@ -20,7 +20,7 @@ if linkage != nil
   use_frameworks! :linkage => linkage.to_sym
 end
 
-target 'horoscopeFirebase' do
+target 'HoroscopeApp' do
   config = use_native_modules!
   use_frameworks! :linkage => :static
 
@@ -43,7 +43,7 @@ target 'horoscopeFirebase' do
     :app_path => "#{Pod::Config.instance.installation_root}/.."
   )
 
-  target 'horoscopeFirebaseTests' do
+  target 'HoroscopeAppTests' do
     inherit! :complete
     # Pods for testing
   end

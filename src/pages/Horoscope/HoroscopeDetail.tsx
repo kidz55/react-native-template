@@ -17,7 +17,6 @@ function HoroscopeDetail({sign, period}) {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#fff',
   },
   tabContent: {
     flex: 1,

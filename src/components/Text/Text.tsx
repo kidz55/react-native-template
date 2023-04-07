@@ -9,22 +9,21 @@ type MyTextProps = TextProps & {
 const MyText: React.FC<MyTextProps> = ({
   children,
   variant = 'body',
+  style,
   ...props
 }) => {
   const theme = React.useContext(ThemeContext);
-
   const styles = StyleSheet.create({
     text: {
       fontSize: variant === 'title' ? 24 : theme.typography.fontSize,
       //@ts-ignore
       fontWeight: variant === 'title' ? 'bold' : theme.typography.fontWeight,
-      color: theme.colors.primary,
-      //@ts-ignore
+      fontFamily: theme.typography.fontFamily,
+      color: theme.colors.text,
     },
   });
-
   return (
-    <Text style={styles.text} {...props}>
+    <Text style={[styles.text].concat(style)} {...props}>
       {children}
     </Text>
   );

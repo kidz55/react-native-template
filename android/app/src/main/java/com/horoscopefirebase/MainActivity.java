@@ -1,4 +1,4 @@
-package com.horoscopefirebase;
+package com.horoscope.app.ghoul.io;
 import android.os.Bundle;
 import com.facebook.react.ReactActivity;
 import com.facebook.react.ReactActivityDelegate;

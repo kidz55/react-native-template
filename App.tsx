@@ -5,7 +5,7 @@ import theme from './src/Theme/theme';
 import {createBottomTabNavigator} from '@react-navigation/bottom-tabs';
 import {createNativeStackNavigator} from '@react-navigation/native-stack';
 import HoroscopeScreen from './src/pages/Horoscope/Horoscope';
-import {I18nextProvider} from 'react-i18next';
+import {I18nextProvider, useTranslation} from 'react-i18next';
 import i18n from './src/utils/i18n';
 import ChangeLanguageButton from './src/components/ChangeLanguageBtn/ChangeLangBtn';
 import CompatibilityScreen from './src/pages/Compatibility/Compatibility';
@@ -14,19 +14,39 @@ const Tab = createBottomTabNavigator();
 const Stack = createNativeStackNavigator();
 
 function HomeScreen() {
+  const {t} = useTranslation();
   return (
-    <Tab.Navigator>
+    <Tab.Navigator
+      screenOptions={() => ({
+        tabBarStyle: {
+          backgroundColor: theme.colors.background,
+        },
+      })}>
       <Tab.Screen
-        name="Horoscope"
+        name={t('horoscope')}
         options={{
           headerRight: () => <ChangeLanguageButton />,
+          headerTitleStyle: {
+            fontWeight: 'bold',
+          },
+          headerStyle: {
+            backgroundColor: theme.colors.background,
+          },
+          headerTintColor: '#fff',
         }}
         component={HoroscopeScreen}
       />
       <Tab.Screen
-        name="Compatibility"
+        name={t('compatibility')}
         options={{
           headerRight: () => <ChangeLanguageButton />,
+          headerTitleStyle: {
+            fontWeight: 'bold',
+          },
+          headerStyle: {
+            backgroundColor: theme.colors.background,
+          },
+          headerTintColor: '#fff',
         }}
         component={CompatibilityScreen}
       />
